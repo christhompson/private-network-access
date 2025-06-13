@@ -1,11 +1,9 @@
 
 # Private Network Access
 
-Note: This specification was initially known as *CORS-RFC1918*. It was also
-briefly and more recently known as *Local Network Access*.
+**Note: Private Network Access is [on hold](https://developer.chrome.com/blog/pna-on-hold). Work is currently continuing on a new proposal to gate local network access behind a permission – see the [Local Network Access explainer](https://github.com/explainers-by-googlers/local-network-access) and [Chrome's blog post with details for developers](https://developer.chrome.com/blog/local-network-access).**
 
-This is the repository for the Private Network Access specification. You're
-welcome to contribute! Let's make the Web rock our socks off!
+This is the repository for the Private Network Access specification (initially known as *CORS-RFC1918*).
 
 You may be interested in reading:
 
